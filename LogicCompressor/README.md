@@ -2,7 +2,8 @@
 Just your normal gem compressor but now with logic ;)
 
 ## Where can you buy it?
-You can buy it in the "Power and Logic" store next to the logic on the right side (picture below)
+You can buy it in the "Power and Logic" store next to the logic on the right side (picture below) for 7230 HydroCoins
+
 ![Logic compressor](./img/LogicCompressor-store.png)
 
 ## How do you use it?

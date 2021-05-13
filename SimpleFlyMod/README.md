@@ -9,6 +9,8 @@ Just A Simple Fly Mod / Collision mod
 - `F2` : Toggle the UI
 - `G` : Toggle Collision
 - `Shift + G` : Toggle World Collision
+- `space` : Fly up
+- `c` : Fly down
 
 # Coming
 - More Options

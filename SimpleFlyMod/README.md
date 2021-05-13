@@ -11,4 +11,4 @@ Just A Simple Fly Mod / Collision mod
 - `Shift + G` : Toggle World Collision
 
 # Coming
-- Fly Mod Extention
+- More Options

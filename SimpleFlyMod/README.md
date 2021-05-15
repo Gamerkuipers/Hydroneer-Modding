@@ -14,7 +14,8 @@ Just A Simple Fly Mod / Collision mod
 
 # Coming
 - More Options
-- message/mention Gamerkuipers#9722 on discord for suggestions or bugs
+
+## message/mention Gamerkuipers#9722 on discord for suggestions or bugs
 
 # Patchnotes
 ```

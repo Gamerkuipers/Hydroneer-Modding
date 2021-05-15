@@ -19,7 +19,8 @@ Just A Simple Fly Mod / Collision mod
 
 # Patchnotes
 ```
-- 15-5 (15th of may): Fixed save bug with fly braking deceleration
+- 15-5 (15th of May): Fixed save bug with fly braking deceleration
+- 15-5 (15th of May): Removed accidental push which disabled key "T"
 ```
 
 

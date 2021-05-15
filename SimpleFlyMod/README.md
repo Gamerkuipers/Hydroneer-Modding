@@ -14,3 +14,11 @@ Just A Simple Fly Mod / Collision mod
 
 # Coming
 - More Options
+- message/mention Gamerkuipers#9722 on discord for suggestions or bugs
+
+# Patchnotes
+```
+- 15-5 (15th of may): Fixed save bug with fly braking deceleration
+```
+
+

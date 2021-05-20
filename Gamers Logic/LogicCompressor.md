@@ -12,4 +12,4 @@ You can buy it in "Hobson's Powerworks" (Power and Logic) store next to the logi
 ## How do you use it?
 The Logic compressor activates when it gets a value of 1 or above. The logic is on the right side with the handle just plug in your logic cable there and then you're all set.
 
-## [Go back](../)
+## [Go back](./)

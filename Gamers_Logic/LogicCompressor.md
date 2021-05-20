@@ -1,8 +1,5 @@
 # Logic Compressor
-Just your normal gem compressor but now with logic ;) [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/LogicCompressor/500-LogicCompressor_P.pak) 
-
-## Required mods
-- [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
+Just your normal gem compressor but now with logic ;). 1+ to activate the compressing process
 
 ## Where can you buy it?
 You can buy it in "Hobson's Powerworks" (Power and Logic) store next to the logic on the right side (picture below) for 7230 HydroCoins

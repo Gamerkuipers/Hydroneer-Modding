@@ -1,8 +1,5 @@
 # Logic Belts
-Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve. [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/LogicBelts/500-LogicBelts_P.pak)
-
-## Required mods
-- [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
+Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve. 
 
 ## Where can you buy those?
 You can buy it in "Hobson's Powerworks" (Power and Logic) store next to the entrance on the left side (picture below)

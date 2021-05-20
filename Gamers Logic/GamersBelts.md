@@ -14,3 +14,5 @@ You can turn the valve on the belt using logic. 1+ to open the valve (allow wate
 
 ## Why would i use it?
 Its a alternative way of the magnet you can use it in a autosmelting system. You send 0 into the belt to stop the ore and start the smelting process and a 1 when the smelting process is done. I recommend incasing the belt bc the first few ores shoot out but after it will nicely pile up
+
+## [Go back](../)

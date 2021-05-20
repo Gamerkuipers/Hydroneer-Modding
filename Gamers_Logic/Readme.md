@@ -1,5 +1,5 @@
-## Gamers's Logic
-adds logic and power items to Hydroneer 
+## Gamers_Logic
+adds a variation of logic and power items to Hydroneer 
 ## [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/Gamers_Logic/500-Gamers_Logic_P.pak)
 
  category | Description | 

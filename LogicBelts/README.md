@@ -1,5 +1,5 @@
 # Logic Belts
-Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve.
+Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve. [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/LogicBelts/500-LogicBelts_P.pak)
 
 ## Required mods
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)

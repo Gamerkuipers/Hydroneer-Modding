@@ -1,5 +1,5 @@
 # Simple Fly Mod
-Just A Simple Fly Mod / Collision mod
+Just A Simple Fly Mod / Collision mod [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/SimpleFlyMod/500-SimpleFlyMod_P.pak)
 
 ## Required mods
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)

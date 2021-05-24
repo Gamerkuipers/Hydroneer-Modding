@@ -12,6 +12,22 @@ Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerk
 - `space` : Fly up
 - `c` : Fly down
 
+## Features
+- able to fly
+- able to turn off collision
+- able to turn off world collision
+- change fly speed
+- change walk speed
+- change jump height
+- freeze time
+- change time
+- teleports to towns/digsites/stores
+- create custom teleports
+- edit custom teleports
+- delete custom teleports
+- read coordinates
+
+
 # Coming
 - More Options
 - suggest more (;

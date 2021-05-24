@@ -26,4 +26,4 @@ Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerk
 ```
 
 
-## [More mods](../)
+## [More mods](../../../)

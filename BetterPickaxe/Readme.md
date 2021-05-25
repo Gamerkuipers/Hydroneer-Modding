@@ -1,5 +1,8 @@
 # BetterPickaxe
-Your way to remove dirt (; [Dowload here]()
+Your way to remove dirt (; [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/BetterPickaxe/500-BetterPickaxe_P.pak)
+
+## Required mods
+- [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
 ## Where do I buy it?
 You can buy it at the "Tools and equipment" Store in Bridgepour (image below)

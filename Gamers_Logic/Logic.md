@@ -1,4 +1,4 @@
-# Other Items
+# Logic Items
 - Logic Compressor
 - Pressure Display
 

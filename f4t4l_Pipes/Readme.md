@@ -17,4 +17,4 @@ You can buy it at the "Tools and equipment" Store in Bridgepour (image below)
 
 ![3WayPipe](./img/3WayCornerPipe-Store.png)
 
-## [More mods](../../../)w
+## [More mods](../../../)

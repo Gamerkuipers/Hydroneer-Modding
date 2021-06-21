@@ -15,6 +15,6 @@ Adds a 3way corner pipe to Hydroneer! [Dowload here](https://github.com/Gamerkui
 
 You can buy it at the "Tools and equipment" Store in Bridgepour (image below)
 
-![BetterPickaxe](./img/3WayCornerPipe-Store.png)
+![3WayPipe](./img/3WayCornerPipe-Store.png)
 
 ## [More mods](../../../)w

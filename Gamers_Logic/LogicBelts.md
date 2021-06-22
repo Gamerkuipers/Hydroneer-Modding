@@ -1,6 +1,6 @@
 # Logic Belts
 
-Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve. 
+Your ingame belts but you can turn the valve with logic. 1+ to open the valve and 0 to close the valve.
 
 ## Where can you buy those?
 
@@ -8,7 +8,7 @@ You can buy it in "Hobson's Powerworks" (Power and Logic) store next to the entr
 
 ![Logic Belts](./img/LogicBelts-Store.png)
 
-## How do you use it? 
+## How do you use it?
 
 You can turn the valve on the belt using logic. 1+ to open the valve (allow water go thru) and 0 to close the valve (stops the water flow).
 

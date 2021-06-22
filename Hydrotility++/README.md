@@ -1,5 +1,6 @@
-# Hydrotility
-Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/Hydrotility++/500-Hydrotility++_P.pak)
+# Hydrotility++
+
+Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
 
 ## Required mods
 
@@ -23,7 +24,7 @@ Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerk
 
 ## Modules
 
-- Teleports [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/blob/main/Hydrotility++/Modules/500-TeleportModule_P.pak)
+- Teleports [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TeleportModule_P.pak)
   - Teleport to Locations
   - Create Custom Teleports
   - Edit Custom Teleports

@@ -12,7 +12,7 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
 
 - Hydrotility++ ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak))
   - `ESC` : Open Menu
-- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-MovementModule_P.pak))
+- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-MovementModule_P.pak))
   - `F` : Toggle Fly
   - `SPACE (Jump)` : Fly Up
   - `C (Crouch)` : Fly Down

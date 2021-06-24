@@ -1,6 +1,6 @@
 # Hydrotility++
 
-Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
+Adds lots of new settings to hydroneer thru Modules [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
 
 ## Required mods
 
@@ -10,7 +10,14 @@ Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerk
 
 ## Keybinds
 
-- `ESC` : Open Menu
+- Hydrotility++ ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak))
+  - `ESC` : Open Menu
+- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-MovementModule_P.pak))
+  - `F` : Toggle Fly
+  - `SPACE (Jump)` : Fly Up
+  - `C (Crouch)` : Fly Down
+  - `LeftSHIFT` : Sprint (modifier also works on fly)
+  - `Ctrl+F1` : Toggle Modifiers
 
 -----------
 
@@ -22,13 +29,24 @@ Adds lots of new settings to hydroneer [Download here](https://github.com/Gamerk
 - Read Coordinates Location
 - Add modules to the esc menu
 
+-----------
+
 ## Modules
 
-- Teleports [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-TeleportModule_P.pak)
+- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-TeleportModule_P.pak)
   - Teleport to Locations
   - Create Custom Teleports
   - Edit Custom Teleports
   - Delete Custom Teleports
+- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-MovementModule_P.pak)
+  - Toggle Fly (on/off)
+  - Toggle the modifiers (on/off)
+  - Modify Fly speed
+  - Modify Acceleration
+  - Modify Walking speed
+  - Modify Sprint Speed
+  - Modify JumpHeight
+  - Modify Gravity
 
 -----------
 

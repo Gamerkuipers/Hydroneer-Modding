@@ -17,7 +17,7 @@ Adds lots Decorations e.g.(rocks, trees, walls, etc.) to Hydroneer! [Dowload her
 
 ## How do i get them?
 
-You can get them by using the spawnmenu ![Download SpawnMenu](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak)
+You can get them by using the spawnmenu [Download SpawnMenu](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak)
 ![SpawnMenu](./img/SpawnMenu.png)
 
 -------

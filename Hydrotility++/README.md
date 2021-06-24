@@ -47,7 +47,18 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
   - Modify Sprint Speed
   - Modify JumpHeight
   - Modify Gravity
+- Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TogglesModule_P.pak)
+  - Toggle Water Valve's
+  - Toggle Logic Valve's
+  - Toggle Power Valve's
+  - Toggle Logic Water Valve's
+  - Toggle Ram Drill's
+  - Toggle Goliath Drill's
+  - Toggle Reactor lid's
+  - Toggle Conveyor valve's
 
 -----------
 
 ## [More mods](../../../)
+
+## Screenshots

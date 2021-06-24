@@ -33,12 +33,12 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
 
 ## Modules
 
-- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-TeleportModule_P.pak)
+- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TeleportModule_P.pak)
   - Teleport to Locations
   - Create Custom Teleports
   - Edit Custom Teleports
   - Delete Custom Teleports
-- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotilisty++/Modules/500-MovementModule_P.pak)
+- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-MovementModule_P.pak)
   - Toggle Fly (on/off)
   - Toggle the modifiers (on/off)
   - Modify Fly speed

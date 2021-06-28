@@ -48,6 +48,7 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
   - Modify JumpHeight
   - Modify Gravity
 - Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TogglesModule_P.pak)
+  - Toggle Lock/Unlock all buildings
   - Toggle Water Valve's
   - Toggle Logic Valve's
   - Toggle Power Valve's

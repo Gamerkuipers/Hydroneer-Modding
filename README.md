@@ -44,7 +44,7 @@ Once the pak folder is open you can place the mod you downloaded into the paks f
 
 ![Paks_Folder](./img/Paks_Folder.png)
 
-## **IMPORTANT**
+## ❗❗❗**IMPORTANT**❗❗❗
 
 The mod name is important there for `(1)` isn't allowed behind the mod name e.g. `500-Hydrotility++_P (1).pak` you can fix that by removing the `(1)` behind the name (`500-Hydrotility++_P.pak`)
 

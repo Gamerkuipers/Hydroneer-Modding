@@ -5,7 +5,7 @@
 - F4T4L
 - Gamerkuipers
 
-Adds a 3way corner pipe to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_WaterPipes/500-f4t4l_WaterPipes_P.pak)
+Adds various pipes to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_WaterPipes/500-f4t4l_WaterPipes_P.pak)
 
 -------
 

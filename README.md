@@ -5,7 +5,7 @@
 
 In this Repository you will find all the mods I host for Hydroneer. My own mods and mods I made together with others aswell as hosting mods for other creators
 
-## Required For **ALL MODS**
+## ❗❗❗Required For **ALL MODS**❗❗❗
 
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
@@ -44,7 +44,7 @@ Once the pak folder is open you can place the mod you downloaded into the paks f
 
 ![Paks_Folder](./img/Paks_Folder.png)
 
-## **IMPORTANT**
+## ❗❗❗**IMPORTANT**❗❗❗
 
 The mod name is important there for `(1)` isn't allowed behind the mod name e.g. `500-Hydrotility++_P (1).pak` you can fix that by removing the `(1)` behind the name (`500-Hydrotility++_P.pak`)
 
@@ -53,4 +53,4 @@ The mod name is important there for `(1)` isn't allowed behind the mod name e.g.
 - [ResaloliPT](https://github.com/ResaloliPT/HydroModTool) For his Amazing Modding tool which makes life so much better!
 - [GrandmaMax](https://twitter.com/MaxHayon) The Creator of Hydroneer
 - [Rhino](https://github.com/RHlNO/HydroneerModding) For HydroUMH making it possible to load mods and his amazing spawn menu [Download here](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak) making the life of testing a lot easier
-- [F4T4L](/#) A fantastic dude who got the best out of me ;)
+- [F4T4L](https://github.com/Gamerkuipers/Hydroneer-Modding) A fantastic dude who got the best out of me ;)

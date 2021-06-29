@@ -12,7 +12,7 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
 
 - Hydrotility++ ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak))
   - `ESC` : Open Menu
-- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-MovementModule_P.pak))
+- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleMovement_P.pak))
   - `F` : Toggle Fly
   - `SPACE (Jump)` : Fly Up
   - `C (Crouch)` : Fly Down
@@ -33,12 +33,12 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
 
 ## Modules
 
-- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TeleportModule_P.pak)
+- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleTeleport_P.pak)
   - Teleport to Locations
   - Create Custom Teleports
   - Edit Custom Teleports
   - Delete Custom Teleports
-- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-MovementModule_P.pak)
+- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleMovement_P.pak)
   - Toggle Fly (on/off)
   - Toggle the modifiers (on/off)
   - Modify Fly speed
@@ -47,7 +47,7 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
   - Modify Sprint Speed
   - Modify JumpHeight
   - Modify Gravity
-- Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-TogglesModule_P.pak)
+- Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleToggles_P.pak)
   - Toggle Lock/Unlock all buildings
   - Toggle Water Valve's
   - Toggle Logic Valve's

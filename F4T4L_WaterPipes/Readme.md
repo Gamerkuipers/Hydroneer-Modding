@@ -5,7 +5,7 @@
 - F4T4L
 - Gamerkuipers
 
-Adds a 3way corner pipe to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_Pipes/500-f4t4l_Pipes_P.pak)
+Adds a 3way corner pipe to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_WaterPipes/500-f4t4l_WaterPipes_P.pak)
 
 -------
 
@@ -15,11 +15,11 @@ Adds a 3way corner pipe to Hydroneer! [Dowload here](https://github.com/Gamerkui
 
 -------
 
-## Where do I buy it?
+## Where do I buy them?
 
 You can buy it at the "Tools and equipment" Store in Bridgepour (image below)
 
-![3WayPipe](./img/3WayCornerPipe-Store.png)
+![3WayPipe](./img/3WayCornerPipe-Store.png) (image coming Soon)
 
 -------
 

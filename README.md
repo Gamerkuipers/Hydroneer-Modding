@@ -53,4 +53,4 @@ The mod name is important there for `(1)` isn't allowed behind the mod name e.g.
 - [ResaloliPT](https://github.com/ResaloliPT/HydroModTool) For his Amazing Modding tool which makes life so much better!
 - [GrandmaMax](https://twitter.com/MaxHayon) The Creator of Hydroneer
 - [Rhino](https://github.com/RHlNO/HydroneerModding) For HydroUMH making it possible to load mods and his amazing spawn menu [Download here](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak) making the life of testing a lot easier
-- [F4T4L](/#) A fantastic dude who got the best out of me ;)
+- [F4T4L](./#) A fantastic dude who got the best out of me ;)

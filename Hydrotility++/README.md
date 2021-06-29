@@ -1,6 +1,8 @@
 # Hydrotility++
 
-Adds lots of new settings to hydroneer thru Modules [Download here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
+Allows you to change/freeze time. And gives Quit to desktop! Allows the Possibility to use modules (seperate mods) [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
+
+Download Complete pack (Includes Hydrotility++ And ALL Modules) [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Hydrotility++_Complete.zip)
 
 ## Required mods
 
@@ -18,6 +20,8 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
   - `C (Crouch)` : Fly Down
   - `LeftSHIFT` : Sprint (modifier also works on fly)
   - `Ctrl+F1` : Toggle Modifiers
+- Collision Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleCollision_P.pak))
+  - `G` : Toggle Collision
 
 -----------
 
@@ -32,6 +36,8 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
 -----------
 
 ## Modules
+
+**REQUIRED MOD:** [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
 
 - Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleTeleport_P.pak)
   - Teleport to Locations
@@ -57,9 +63,32 @@ Adds lots of new settings to hydroneer thru Modules [Download here](https://gith
   - Toggle Goliath Drill's
   - Toggle Reactor lid's
   - Toggle Conveyor valve's
+- Collisions [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleCollisions_P.pak)
+  - Toggle Collision
+  - Choose what collision channels you wanna toggle
 
 -----------
 
 ## [More mods](../../../)
 
 ## Screenshots
+
+### Main UI
+
+![Main UI](./img/Hydrotility++_Main.png)
+
+### Module Collisions
+
+![Module Collisions](./img/Hydrotility++_Collisions.png)
+
+### Module Movement
+
+![Module Collisions](./img/Hydrotility++_Movement.png)
+
+### Module Toggles
+
+![Module Collisions](./img/Hydrotility++_Toggles.png)
+
+### Module Teleports
+
+![Module Collisions](./img/Hydrotility++_Teleports.png)

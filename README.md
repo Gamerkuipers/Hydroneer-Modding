@@ -25,7 +25,7 @@ Name | Description | Required mods | Creators | Mod
 
 ## **Step 1**
 
-Download a mod thru the wiki [wiki here](https://bridgepour.com/legacy-mods) or from the links above on the right side press download.
+Download a mod thru the wiki [Link here](https://bridgepour.com/legacy-mods) or from the links above on the right side press download.
 
 ## **Step 2**
 

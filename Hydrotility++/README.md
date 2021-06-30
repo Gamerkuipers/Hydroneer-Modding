@@ -66,6 +66,14 @@ Download Complete pack (Includes Hydrotility++ And ALL Modules) [Download Here](
 - Collisions [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleCollisions_P.pak)
   - Toggle Collision
   - Choose what collision channels you wanna toggle
+- ItemMover [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Modules/500-ModuleItemMover_P.pak)
+  - Change the Location of the selected Item
+  - Change the rotation of the selected Item
+  - Toggle Placed Down
+  - Toggle Highlight (custom Highlight)
+  - Toggle Locked
+  - Offers (-1, -10, +1, +10) buttons to rotation and location
+  - Manually put in the coords
 
 -----------
 
@@ -92,3 +100,7 @@ Download Complete pack (Includes Hydrotility++ And ALL Modules) [Download Here](
 ### Module Teleports
 
 ![Module Collisions](./img/Hydrotility++_Teleports.png)
+
+### Module ItemMover
+
+![Module ItemMover](./img/Hydrotility++_ItemMover.png)

@@ -2,6 +2,7 @@
 
 - [Get Hydroneer](https://store.steampowered.com/app/1106840/Hydroneer/)
 - [Hydroneer Wiki](https://bridgepour.com/)
+- [Hydroneer Discord](https://discord.gg/hydroneer)
 
 In this Repository you will find all the mods I host for Hydroneer. My own mods and mods I made together with others aswell as hosting mods for other creators
 

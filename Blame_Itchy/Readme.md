@@ -4,7 +4,7 @@
 
 - F4T4L
 
-#Blame-Itchy [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_Rocks/500-f4t4l_Rocks_P.pak)
+ #Blame-Itchy [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Blame_Itchy/500-Blame-Itchy_P.pak)
 
 -------
 

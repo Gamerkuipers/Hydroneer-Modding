@@ -1,8 +1,18 @@
 # BetterPickaxe
 
-Your way to remove dirt (; [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/BetterPickaxe/500-BetterPickaxe_P.pak)
+Your way to remove dirt (;
 
-## Required mods
+## Creators
+
+- Gamerkuipers
+
+-------
+
+## Downloads
+
+- [BetterPickaxe](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/BetterPickaxe/500-BetterPickaxe_P.pak)
+
+### Required mods
 
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
@@ -26,10 +36,7 @@ left click on dirt (; (example of the hole below)
 
 ## issues
 
-    ```
-        - Can't put it on a toolrack
-    ```
-
+    - Can't put it on a toolrack
 -------
 
 ## [More mods](../../../)

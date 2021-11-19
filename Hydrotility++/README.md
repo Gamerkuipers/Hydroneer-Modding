@@ -1,10 +1,21 @@
 # Hydrotility++
 
-Allows you to change/freeze time. And gives Quit to desktop! Allows the Possibility to use modules (seperate mods) [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
+Allows you to change/freeze time. And gives Quit to desktop! Allows the Possibility to use modules (seperate mods)
 
-Download Complete pack (Includes Hydrotility++ And ALL Modules) [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Hydrotility++_Complete.zip)
+Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 
-## Required mods
+## Creators
+
+- Gamerkuipers
+
+-----------
+
+## Downloads
+
+- [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/500-Hydrotility++_P.pak)
+- [Hydrotility++.zip](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Hydrotility++/Hydrotility++_Complete.zip)
+
+### Required mods
 
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 

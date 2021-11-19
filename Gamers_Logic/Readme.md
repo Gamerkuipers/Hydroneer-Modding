@@ -20,14 +20,14 @@ adds a variation of logic and power items to Hydroneer
 
 ## Categories
 
-- [Belts](/LogicBelts.md)
-- [other](/Logic.md)
+- [Belts](./LogicBelts.md)
+- [other](./Logic.md)
 
 ## Items
 
-- Logic Belts [Info](/LogicBelts.md)
-- Logic compressor [Info](/Logic.md)
-- Pressure Display [Info](/Logic.md)
+- Logic Belts [Info](./LogicBelts.md)
+- Logic compressor [Info](./Logic.md)
+- Pressure Display [Info](./Logic.md)
 
 ## [More mods](../../../)
 

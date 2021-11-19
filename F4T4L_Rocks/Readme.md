@@ -4,7 +4,7 @@
 
 - F4T4L
 
-Adds lots Decorations e.g.(rocks, trees, walls, etc.) to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_Rocks/500-f4t4l_Rocks_P.pak)
+Adds lots Decorations e.g.(rocks, trees, walls, etc.) to Hydroneer! [Dowload here](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_Rocks_P.pak)
 
 -------
 

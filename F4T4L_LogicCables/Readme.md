@@ -5,7 +5,7 @@
 - F4T4L
 - Gamerkuipers
 
-Adds a 3way corner LogicCable to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_LogicCables/500-f4t4l_LogicCables_P.pak)
+Adds a 3way corner LogicCable to Hydroneer! [Dowload here](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_LogicCables_P.pak)
 
 -------
 

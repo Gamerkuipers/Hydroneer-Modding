@@ -5,7 +5,7 @@
 - F4T4L
 - Gamerkuipers
 
-Adds a 3way corner PowerCable to Hydroneer! [Dowload here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/F4T4L_PowerCables/500-f4t4l_PowerCables_P.pak)
+Adds a 3way corner PowerCable to Hydroneer! [Dowload here](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_PowerCables_P.pak)
 
 -------
 

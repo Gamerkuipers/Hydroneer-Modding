@@ -10,7 +10,7 @@ Your way to remove dirt (;
 
 ## Downloads
 
-- [BetterPickaxe](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/BetterPickaxe/500-BetterPickaxe_P.pak)
+- [BetterPickaxe](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-BetterPickaxe_P.pak)
 
 ### Required mods
 
@@ -22,7 +22,7 @@ Your way to remove dirt (;
 
 You can buy it at the "Tools and equipment" Store in Bridgepour (image below)
 
-![BetterPickaxe](./img/BetterPickaxe-Store.png)
+![BetterPickaxe](./img/Store_1.7.1.jpg)
 
 -------
 

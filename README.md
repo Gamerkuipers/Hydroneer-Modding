@@ -16,8 +16,8 @@ In this Repository you will find all the mods I host for Hydroneer. My own mods 
 
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:
-[Gamers Logic](./Gamers_Logic) | Adds a variaty of logic and power items to the game | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/Gamers_Logic/500-Gamers_Logic_P.pak) | 1.6
-[BetterPickaxe](./BetterPickaxe) | Your way to remove dirt! |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/BetterPickaxe/500-BetterPickaxe_P.pak) | 1.6
+[Gamers Logic](./Gamers_Logic) | Adds a variaty of logic and power items to the game | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.6/500-Gamers_Logic_P.pak) | 1.6
+[BetterPickaxe](./BetterPickaxe) | Your way to remove dirt! |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.6/500-BetterPickaxe_P.pak) | 1.6
 [F4T4L_WaterPipes](./F4T4L_WaterPipes) | Adds various pipes to Hydroneer! |  | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_WaterPipes_P.pak) | 1.7
 [F4T4L_Rocks](./F4T4L_Rocks) | Adds lots Decorations e.g.(rocks, trees, walls, etc.) to Hydroneer! | [SpawnMenu](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak) | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_Rocks_P.pak) | 1.7
 [F4T4L_PowerCables](./F4T4L_PowerCables) | Adds a 3way corner PowerCable to Hydroneer! | | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_PowerCables_P.pak) | 1.7

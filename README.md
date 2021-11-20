@@ -28,7 +28,7 @@ Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 [Module Collisions](./Hydrotility++) | Adds Collision toggles (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleCollisions_P.pak) | 1.7.1
 [Module Teleports](./Hydrotility++) | Adds Teleport options and custom Teleports (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleTeleport_P.pak) | 1.7.1
 [Module Toggles](./Hydrotility++) | Adds Toggles such as lock all buildings and turn on drills (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleToggles_P.pak) | 1.7.1
-[Module ItemMover](./Hydrotility++) | A tool made for modders to change variables of a actor | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.6/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.6/500-ModuleItemMover_P.pak) | 1.6
+[Module ItemMover](./Hydrotility++) | A tool made for modders to change variables of a actor | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleItemMover_P.pak) | 1.7.1
 
 ## Downloading mods
 

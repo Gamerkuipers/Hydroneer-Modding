@@ -1,4 +1,4 @@
-# Gamerkuipers's Mods for Hydroneer
+# Gamerkuipers's & Others their mods for Hydroneer
 
 - [Get Hydroneer](https://store.steampowered.com/app/1106840/Hydroneer/)
 - [Hydroneer Wiki](https://bridgepour.com/)

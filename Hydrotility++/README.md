@@ -12,8 +12,8 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 
 ## Downloads
 
-- [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak)
-- [Hydrotility++.zip](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/Hydrotility++_Complete.zip)
+- [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak)
+- [Hydrotility++.zip](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/Hydrotility++_Complete.zip)
 
 ### Required mods
 
@@ -23,15 +23,15 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 
 ## Keybinds
 
-- Hydrotility++ ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak))
+- Hydrotility++ ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak))
   - `ESC` : Open Menu
-- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleMovement_P.pak))
+- Movement Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleMovement_P.pak))
   - `F` : Toggle Fly
   - `SPACE (Jump)` : Fly Up
   - `C (Crouch)` : Fly Down
   - `LeftSHIFT` : Sprint (modifier also works on fly)
   - `Ctrl+F1` : Toggle Modifiers
-- Collision Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleCollision_P.pak))
+- Collision Module ([Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleCollision_P.pak))
   - `G` : Toggle Collision
 
 -----------
@@ -48,14 +48,14 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 
 ## Modules
 
-**REQUIRED MOD:** [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-Hydrotility++_P.pak)
+**REQUIRED MOD:** [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak)
 
-- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleTeleport_P.pak)
+- Teleports [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleTeleport_P.pak)
   - Teleport to Locations
   - Create Custom Teleports
   - Edit Custom Teleports
   - Delete Custom Teleports
-- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleMovement_P.pak)
+- Movement [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleMovement_P.pak)
   - Toggle Fly (on/off)
   - Toggle the modifiers (on/off)
   - Modify Fly speed
@@ -64,7 +64,7 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
   - Modify Sprint Speed
   - Modify JumpHeight
   - Modify Gravity
-- Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleToggles_P.pak)
+- Toggles [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleToggles_P.pak)
   - Toggle Lock/Unlock all buildings
   - Toggle Water Valve's
   - Toggle Logic Valve's
@@ -74,10 +74,10 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
   - Toggle Goliath Drill's
   - Toggle Reactor lid's
   - Toggle Conveyor valve's
-- Collisions [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleCollisions_P.pak)
+- Collisions [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleCollisions_P.pak)
   - Toggle Collision
   - Choose what collision channels you wanna toggle
-- ItemMover [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-ModuleItemMover_P.pak)
+- ItemMover [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleItemMover_P.pak)
   - Change the Location of the selected Item
   - Change the rotation of the selected Item
   - Toggle Placed Down

@@ -10,7 +10,7 @@ Your way to remove dirt (;
 
 ## Downloads
 
-- [BetterPickaxe](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.7.1/500-BetterPickaxe_P.pak)
+- [BetterPickaxe](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BetterPickaxe_P.pak)
 
 ### Required mods
 

@@ -10,9 +10,7 @@ In this Repository you will find all the mods I host for Hydroneer. My own mods 
 
 - [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
-## Current mods (latest Hydroneer Version)
-
-[1.6 Mod Downloads](./1.6_mods_downloads.md)
+## Current mods
 
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:

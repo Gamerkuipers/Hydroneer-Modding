@@ -3,6 +3,10 @@ Here you will find mods that i am working on and will probably change a lot (or 
 
 If you download these mods expect some bugs and please do report them because the reason i make them public is so people can test them for me :D
 
+If you got any suggestions let me know too.
+
+### discord: Gamerkuipers#9722
+
 ## Downloading the mods
 Its the exact same as downloading other mods _ofc_ so please follow instructions [here](../) or on the [bridgepour wiki](https://bridgepour.com/mod-faq)
 

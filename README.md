@@ -36,7 +36,7 @@ Download a mod through the wiki [Link here](https://bridgepour.com/legacy-mods) 
 
 ## **Step 2**
 
-To get to the paks folder on your system type `%localappdata%\Mining\Saved\Paks` in the windows search and hit enter
+To get to the paks folder on your system type `%localappdata%\Mining\Saved\Paks` in the windows search or in `win + r` (run) and hit enter
 
 ![Windows_search_ss](./img/Windows_Search.jpg)
 

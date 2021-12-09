@@ -7,6 +7,7 @@ If you download these mods expect some bugs and please do report them because th
 Its the exact same as downloading other mods _ofc_ so please follow instructions [here](../) or on the [bridgepour wiki](https://bridgepour.com/mod-faq)
 
 ## Available mods
+ofcourse is hydroumh is required for all mods: [download HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:

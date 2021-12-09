@@ -5,7 +5,7 @@ If you download these mods expect some bugs and please do report them because th
 
 If you got any suggestions let me know too.
 
-### discord: Gamerkuipers#9722
+### discord: Gamerkuipers#9722 (not gamerkuipers in hydroneer discord)
 
 ## Downloading the mods
 Its the exact same as downloading other mods _ofc_ so please follow instructions [here](../) or on the [bridgepour wiki](https://bridgepour.com/mod-faq)

@@ -41,6 +41,8 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 - Quit to desktop
 - Change time
 - Freeze time
+- remove all dirt chunks
+- remove all raw resources
 - Read Coordinates Location
 - Add modules to the esc menu
 

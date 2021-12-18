@@ -16,7 +16,6 @@ Wanna help test mods? go [here](./development)
 
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:
-<<<<<<< HEAD
 [Gamers Logic](./Gamers_Logic) | Adds a variaty of logic and power items to the game | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Gamers_Logic_P.pak) | 1.7.1
 [BetterPickaxe](./BetterPickaxe) | Your way to remove dirt! |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BetterPickaxe_P.pak) | 1.7.1
 [F4T4L_WaterPipes](./F4T4L_WaterPipes) | Adds various pipes to Hydroneer! |  | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_WaterPipes_P.pak) | 1.7.1

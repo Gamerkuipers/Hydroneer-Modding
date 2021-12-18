@@ -87,6 +87,9 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
   - Toggle Locked
   - Offers (-1, -10, +1, +10) buttons to rotation and location
   - Manually put in the coords
+- FindMyItem [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleFindMyItem_P.pak)
+  - count how many of one item you have.
+  - show location of each item of a certain type
 
 -----------
 
@@ -117,3 +120,7 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 ### Module ItemMover
 
 ![Module ItemMover](./img/Hydrotility++_ItemMover.png)
+
+### Module FindMyItem
+
+![Module FindMyItem](./img/Hydrotility++_FindMyItem.png)

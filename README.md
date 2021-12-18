@@ -8,12 +8,15 @@ In this Repository you will find all the mods I host for Hydroneer. My own mods 
 
 ## ❗❗❗Required For **ALL MODS**❗❗❗
 
-- [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
+- [download HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak)
 
 ## Current mods
 
+Wanna help test mods? go [here](./development)
+
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:
+<<<<<<< HEAD
 [Gamers Logic](./Gamers_Logic) | Adds a variaty of logic and power items to the game | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Gamers_Logic_P.pak) | 1.7.1
 [BetterPickaxe](./BetterPickaxe) | Your way to remove dirt! |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BetterPickaxe_P.pak) | 1.7.1
 [F4T4L_WaterPipes](./F4T4L_WaterPipes) | Adds various pipes to Hydroneer! |  | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_WaterPipes_P.pak) | 1.7.1
@@ -28,6 +31,21 @@ Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 [Module Toggles](./Hydrotility++) | Adds Toggles such as lock all buildings and turn on drills (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleToggles_P.pak) | 1.7.1
 [Module ItemMover](./Hydrotility++) | A tool made for modders to change variables of a actor | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleItemMover_P.pak) | 1.7.1
 [Module FindMyItem](./Hydrotility++) | Shows location and amount of a item | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleFindMyItem_P.pak) | 1.7.1
+=======
+[Gamers Logic](./Gamers_Logic) | Adds a variaty of logic and power items to the game | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Gamers_Logic_P.pak) | latest
+[BetterPickaxe](./BetterPickaxe) | Your way to remove dirt! |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BetterPickaxe_P.pak) | latest
+[F4T4L_WaterPipes](./F4T4L_WaterPipes) | Adds various pipes to Hydroneer! |  | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_WaterPipes_P.pak) | latest
+[F4T4L_Rocks](./F4T4L_Rocks) | Adds lots Decorations e.g.(rocks, trees, walls, etc.) to Hydroneer! | [SpawnMenu](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/500-SpawnMenu_P.pak) | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_Rocks_P.pak) | latest
+[F4T4L_PowerCables](./F4T4L_PowerCables) | Adds a 3way corner PowerCable to Hydroneer! | | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_PowerCables_P.pak) | latest
+[F4T4L_LogicCables](./F4T4L_LogicCables) | Adds a 3way corner LogicCable to Hydroneer! | | F4T4L & Gamerkuipers | [Download](https://github.com/F4T4lerrorbe/HydroneerModding/raw/main/500-f4t4l_LogicCables_P.pak) | latest
+[Hydrotility++](./Hydrotility++) | Allows you to change/freeze time. And gives Quit to desktop! Allows the Possibility to use modules (seperate mods) | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | latest
+[Hydrotility++ Complete](./Hydrotility++) | Includes Hydrotility++ and ALL Modules (download it and extract the zip file) | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/Hydrotility++_Complete.zip) | latest
+[Module Movement](./Hydrotility++) | Adds Fly and movement modifiers (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleMovement_P.pak) | latest
+[Module Collisions](./Hydrotility++) | Adds Collision toggles (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleCollisions_P.pak) | latest
+[Module Teleports](./Hydrotility++) | Adds Teleport options and custom Teleports (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleTeleport_P.pak) | latest
+[Module Toggles](./Hydrotility++) | Adds Toggles such as lock all buildings and turn on drills (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleToggles_P.pak) | latest
+[Module ItemMover](./Hydrotility++) | A tool made for modders to change variables of a actor | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleItemMover_P.pak) | latest
+>>>>>>> 58c3daf18df86f65d42dd1d087e0ca5b9b8943cf
 
 ## Downloading mods
 
@@ -37,7 +55,7 @@ Download a mod through the wiki [Link here](https://bridgepour.com/legacy-mods) 
 
 ## **Step 2**
 
-To get to the paks folder on your system type `%localappdata%\Mining\Saved\Paks` in the windows search and hit enter
+To get to the paks folder on your system type `%localappdata%\Mining\Saved\Paks` in the windows search or in `win + r` (run) and hit enter
 
 ![Windows_search_ss](./img/Windows_Search.jpg)
 

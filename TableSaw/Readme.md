@@ -1,10 +1,11 @@
-# BetterPickaxe
+# TableSaq
 
 Cut bars to your desired size.
 
 ## Creators
 
-- Gamerkuipers
+- Team Hydronix
+- Repaired by Gamerkuipers
 
 -------
 

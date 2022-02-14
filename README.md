@@ -30,7 +30,7 @@ Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 [Module Toggles](./Hydrotility++) | Adds Toggles such as lock all buildings and turn on drills (more info on mod page) | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleToggles_P.pak) | 1.7.2
 [Module ItemMover](./Hydrotility++) | A tool made for modders to change variables of a actor | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleItemMover_P.pak) | 1.7.2
 [Module FindMyItem](./Hydrotility++) | Shows location and amount of a item | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleFindMyItem_P.pak) | 1.7.2
-[TableSaw](./TableSaw) | Cut bars to your required size |  | Team Hydronix (repaired by Gamerkuipers) | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-TableSaw_P.pak) | 1.7.2
+[TableSaw](./TableSaw) | Cut bars to your desired size |  | Team Hydronix (repaired by Gamerkuipers) | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-TableSaw_P.pak) | 1.7.2
 
 ## Downloading mods
 

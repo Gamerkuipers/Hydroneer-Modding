@@ -21,7 +21,7 @@ Cut bars to your desired size.
 
 ## Where do I buy it?
 
-You can buy it at the "Tools and equipment" Store in Bridgepour (image below)
+You can buy it at the "Conveyor Nation" Store in Bridgepour (image below)
 
 ![TableSaw](./img/Store_TableSaw.png)
 

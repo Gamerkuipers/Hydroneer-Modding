@@ -1,4 +1,4 @@
-# TableSaq
+# TableSaw
 
 Cut bars to your desired size.
 

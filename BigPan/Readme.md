@@ -34,7 +34,7 @@ The same as the normal pan its just bigger.
 
 ## issues
 
-    none
+    Makes items smaller once taken out of the pan (fix: reload save to restore orginal size)
 
 -------
 

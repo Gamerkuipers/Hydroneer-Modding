@@ -10,7 +10,7 @@ Allows you to build anywhere on the map.
 
 ## Downloads
 
-- [BigPan](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BuildAnywhere_P.pak)
+- [BuildAnywhere](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BuildAnywhere_P.pak)
 
 ### Required mods
 

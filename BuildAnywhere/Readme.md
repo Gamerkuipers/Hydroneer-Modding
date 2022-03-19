@@ -1,6 +1,6 @@
 # BuildAnywhere
 
-Allows you to build anywhere on the map.
+Allows you to place items anywhere on the map.
 
 ## Creators
 

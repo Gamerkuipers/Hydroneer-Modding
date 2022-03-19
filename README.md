@@ -32,6 +32,7 @@ Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 [Module FindMyItem](./Hydrotility++) | Shows location and amount of a item | [Hydrotility++](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-Hydrotility++_P.pak) | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleFindMyItem_P.pak) | 1.7.2
 [TableSaw](./TableSaw) | Cut bars to your desired size |  | Team Hydronix (repaired by Gamerkuipers) | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-TableSaw_P.pak) | 1.7.2
 [BigPan](./BigPan) | A huge Pan, whatelse do i have to say. |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BigPan_P.pak) | 1.7.2
+[BuildAnywhere](./BuildAnywhere) | Allows you to build anywhere on the map. |  | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BuildAnywhere_P.pak) | 1.7.2
 
 ## Downloading mods
 

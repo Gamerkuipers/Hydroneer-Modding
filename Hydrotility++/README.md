@@ -41,9 +41,10 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 - Quit to desktop
 - Change time
 - Freeze time
-- remove all dirt chunks
-- remove all raw resources
+- Remove all dirt chunks
+- Remove all raw resources
 - Read Coordinates Location
+- Read Z rotation
 - Add modules to the esc menu
 
 -----------
@@ -90,6 +91,7 @@ Hydrotility++.zip (Includes Hydrotility++ And ALL Modules)
 - FindMyItem [Download Here](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-ModuleFindMyItem_P.pak)
   - count how many of one item you have.
   - show location of each item of a certain type
+  - teleport to a items location
 
 -----------
 

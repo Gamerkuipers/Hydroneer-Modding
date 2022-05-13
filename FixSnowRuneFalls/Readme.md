@@ -1,4 +1,4 @@
-# Gamers_Logic
+# FixSnowRuneFalls
 
 This mod is made pure for broken beta saves where you are unable to purchase "SnowRuneFalls".
 

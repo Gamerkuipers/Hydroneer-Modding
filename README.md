@@ -6,17 +6,21 @@
 
 In this Repository you will find all the mods I host for Hydroneer. This includes my own mods and mods I made together with others aswell as hosting mods for other creators.
 
+Mods can also be found on the workshop.
+
 [find 1.7 mods here](./1.7-mods.md)
 
 ## ❗❗❗Required For **ALL MODS**❗❗❗
 
-- there will be a new mod loader
+- [HML](https://github.com/ResaloliPT/HydroneerReleases/raw/master/Mods/500-HMLoader_P.pak)
 
 ## Current mods
 
-there are currently no mods for the latest version (2.0)
+Name | Description | Required mod(s) | Creators | Download
+:----:|:---------:|:------:|:-----: | :----:
+[FixSnowRuneFalls](./FixSnowRuneFalls) | This will fix your beta saves | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-FixSnowRuneFalls_P.pak)
 
-## Downloading mods
+## Downloading Legacy mods
 
 ## **Step 1**
 

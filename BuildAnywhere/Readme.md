@@ -10,7 +10,8 @@ Allows you to place items anywhere on the map.
 
 ## Downloads
 
-- [BuildAnywhere](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BuildAnywhere_P.pak)
+- [1.x](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/1.x/500-BuildAnywhere_P.pak)
+- [2.x](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-BuildAnywhere_P.pak)
 
 ### Required mods
 

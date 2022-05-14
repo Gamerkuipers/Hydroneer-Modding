@@ -19,6 +19,7 @@ Mods can also be found on the workshop.
 Name | Description | Required mod(s) | Creators | Download
 :----:|:---------:|:------:|:-----: | :----:
 [FixSnowRuneFalls](./FixSnowRuneFalls) | This will fix your beta saves | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-FixSnowRuneFalls_P.pak)
+[BuildAnywhere](./BuildAnywhere) | Allows you to place items anywhere on the map. | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-BuildAnywhere_P.pak)
 
 ## Downloading Legacy mods
 

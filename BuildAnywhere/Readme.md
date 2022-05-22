@@ -1,6 +1,6 @@
 # BuildAnywhere
 
-Allows you to place items anywhere on the map.
+Allows you to place items anywhere on the map. You can now use [Hydrotility++](../Hydrotility%2B%2B) to configure settings.
 
 ## Creators
 

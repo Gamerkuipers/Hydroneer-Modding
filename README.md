@@ -20,6 +20,7 @@ Name | Description | Required mod(s) | Creators | Download
 :----:|:---------:|:------:|:-----: | :----:
 [FixSnowRuneFalls](./FixSnowRuneFalls) | This will fix your beta saves | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-FixSnowRuneFalls_P.pak)
 [BuildAnywhere](./BuildAnywhere) | Allows you to place items anywhere on the map. | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-BuildAnywhere_P.pak)
+[Hydrotility++](./Hydrotility++) | Hydrotility++ is broken down into multiple mods those mods are called modules and will use hydrotility++ for ui and settings editing. | | Gamerkuipers | [Download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/2.x/500-Hydrotility++_P.pak)
 
 ## Downloading Legacy mods
 

@@ -50,21 +50,29 @@ Below you will find a table of the transform for each retail item.
 
 Tool name | Location(x,y,z) | Rotation(x,y,z)
 :--: | :--: | :---:
-Shovel T1 | 0 , 0 , 13 | 0 , 0 , -90
-Shovel T2 | 3 , 0 , 0 | 0 , 0 , -90
-Pickaxe T1 | 3 , 0 , -38 | 0 , 0 , 0
-Pickaxe T2 | 3 , 0 , -38 | 0 , 0 , 0
-Brush | 0 , 0 , -8 | 0 , 0 , -90
-Construction Hammer | 0 , 0 , -40 | 0 , 0 , 0
-Blacksmith Hammer | 0 , 0 , -34 | 0 , 0 , 0
-Magnet On A Stick | 0 , 0 , -49 | -90 , 0 , -90
-Saw | 0 , 10 , -60 | -90 , 0 , 180
-Spanner | 0 , 0 , -14 | 0 , 0 , 0
-Magnifying Glass | 1 , 35 , -38 | -25 , 36 , 53
-Gravity Tool | 0 , 0 , -58 | -90 , 0 , 0
-Creative Wand | 0 , 0 , -33 | 0 , 0 , 0
-Rake T1 | 0 , 0 , 14 | 0 , 0 , 90
-Rake T2 | 0 , 0 , 14 | 0 , 0 , 90
+Shovel T1 | 0, 0, 13 | 0, 0, -90
+Shovel T2 | 3, 0, 13 | 0, 0, -90
+Shovel T3 | 3, 0, 13 | 0, 0, -90
+Pickaxe T1 | 3, 0, -38 | 0, 0, 0
+Pickaxe T2 | 3, 0, -38 | 0, 0, 0
+Pickaxe T3 | 3, 0, -38 | 0, 0, 0
+Brush | 0, 0, -8 | 0, 0, -90
+Construction Hammer | 0, 0, -40 | 0, 0, 0
+Blacksmith Hammer | 0, 0, -34 | 0, 0, 0
+Magnet On A Stick | 0, 0, -49 | -90, 0, -90
+Saw | 0, 10, -60 | -90, 0, 180
+Spanner | 0, 0, -14 | 0, 0, 0
+Magnifying Glass | 1, 35, -38 | -25, 36, 53
+Gravity Tool | 0, 0, -58 | -90, 0, 0
+Creative Wand | 0, 0, -33 | 0, 0, 0
+Rake T1 | 0, 0, 14 | 0, 0, 90
+Rake T2 | 0, 0, 14 | 0, 0, 90
+Rake T3 | 0, 0, 14 | 0, 0, 90
+Sickle | 0, 0, 5 | -180, 0, -180
+Trowel | 0, 0, -19 | 180, 0, 90
+Cooking Knife | 0, 0, -12 | 0, 0, 180
+Chisel Gem | 0, 0, -10 | 0, 0, 0
+Dirt Wand | 0, 0, -35 | 0, 0, 0
 
 -----------
 

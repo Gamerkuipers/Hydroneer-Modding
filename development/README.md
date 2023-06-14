@@ -15,7 +15,7 @@ ofcourse is hydroumh is required for all mods: [download HydroUMH](https://githu
 
 Name | Description | Required mod(s) | Creators | Mod | Gamer Ver.
 :----:|:---------:|:------:|:-----: | :----: | :-----:
-GK console | see below | | Gamerkuipers | [download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/development/downloads/500-GKConsole_P.pak) | latest
+GK console | see below | | Gamerkuipers | [download](https://github.com/Gamerkuipers/Hydroneer-Modding/raw/main/development/downloads/500-GKConsole_P.pak) | 1.7.4
 
 
 # GK Console
